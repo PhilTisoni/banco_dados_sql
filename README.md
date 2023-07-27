@@ -1,4 +1,4 @@
-# Bootcamp Potência Tech - DIO Bank
+# Bootcamp Potência Tech - Banco de Dados E-Commerce
 
 <img style = "width: 200px" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdjqTkPkxvNF5yqLhPRNhYXnwXuW422OWMGMyn2KkNTjRyuqZriAq26YEAK35FIOgKAwY&usqp=CAU" alt = "DIO"> <img style = "width: 200px" src = "https://hermes.dio.me/files/assets/57ee4023-b3ef-4dd5-b403-c9107fda7723.png" alt = "Potência Tech powered by iFood | Ciência de Dados com Python Bootcamp"> <img style = "width: 200px" src = "https://logospng.org/download/ifood/logo-ifood-1024.png" alt = "IFood">
 
@@ -6,8 +6,7 @@
 # Sobre o Projeto
 
 Desenolvido em Julho de 2023 durante o bootcamp **Potência Tech Powered by iFood | Ciência de Dados com Python!** oeferecido pela **Digital Innovation One (DIO)** 
-em parceria com a **IFood**, o projeto apresenta um exemplo de banco de dados de um e-commerce. Foram inseridas querries e criadas tabelas seguindo o modelo proposto 
-durante as aulas.
+em parceria com a **IFood**, o projeto apresenta um exemplo de banco de dados de um e-commerce inspirado na solução de [Lucas Venancio de Araujo](https://github.com/lucasvda). Foram inseridas querries e criadas tabelas seguindo o modelo proposto durante as aulas.
 
 # Tecnologias Utilizadas
 
@@ -72,7 +71,7 @@ lógico para fornecer o contexto sobre seu esquema lógico apresentado.
 
 Inicialmente, foi realizado o mapeamento do esquema ER, entendendo os relacionamentos entre as tabelas para facilitar a criação do esquema do banco
 
-<img style = "width: 300px" src="./Assets/EsquemaER" alt = "Esquema ER">
+<img style = "width: 900px" src="./Assets/EsquemaER.png" alt = "Esquema ER">
 
 
 
@@ -151,6 +150,17 @@ DROP DATABASE IF EXISTS ecommerce_refinado;
 CREATE DATABASE ecommerce_refinado;
 USE ecommerce_refinado;
 ```
+
+# Conclusão
+
+Esse estudo foi desafiador e exigiu diversas fontes de pesquisa para instalação do Workbench e assimilação do conteúdo, porém, apresenta a simulação completa de todos 
+os processos para a criação da modelagem de um banco de dados para um e-commerce. Assim, adiciono alguns links úteis que podem complementar o estudo:
+
+- [Instalação MySQL](https://www.youtube.com/watch?v=gffMzD8IsRk&feature=youtu.be)
+- [Como Fazer Modelo Entidade Relacionamento](https://www.youtube.com/watch?v=ica1CB_S4jE)
+- [Comandos para Queries](https://www.youtube.com/watch?v=DUYnl5CS0Po)
+- [Comandos de Agrupamento - JOIN](https://www.youtube.com/watch?v=165r4qUvp8Q)
+
 
 # Autor
 
