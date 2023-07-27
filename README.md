@@ -6,7 +6,7 @@
 # Sobre o Projeto
 
 Desenolvido em Julho de 2023 durante o bootcamp **Potência Tech Powered by iFood | Ciência de Dados com Python!** oeferecido pela **Digital Innovation One (DIO)** 
-em parceria com a **IFood**, o projeto apresenta um exemplo de banco de dados de um e-commerce inspirado na solução de [Lucas Venancio de Araujo](https://github.com/lucasvda). Foram inseridas querries e criadas tabelas seguindo o modelo proposto durante as aulas.
+em parceria com a **IFood**, o projeto apresenta um exemplo de banco de dados de um e-commerce inspirado na solução de [Lucas Venancio de Araujo](https://github.com/lucasvda). Foram inseridas queries e criadas tabelas seguindo o modelo proposto durante o curso.
 
 # Tecnologias Utilizadas
 
@@ -23,13 +23,15 @@ em parceria com a **IFood**, o projeto apresenta um exemplo de banco de dados de
 ```bash
 git clone https://github.com/PhilTisoni/ecommerce_sql.git
 ```
-O projeto deverá ser clonado para a sua pasta. Abra o arquivo .sql em seu workbench.
+O projeto deverá ser clonado para a sua pasta. Abra o arquivo .sql em seu Workbench.
 
 
 # Índice
 
 - <a href = "#Regras-de-Negócio">Regras de Negócio</a>
 - <a href = "#Projeto">Projeto</a>
+- <a href = "#Conclusão">Conclusão</a>
+- <a href = "#Autor">Autor</a>
 
   
 # Regras de Negócio
