@@ -56,7 +56,7 @@ lógico para fornecer o contexto sobre seu esquema lógico apresentado.
 
 Inicialmente, foi realizado o mapeamento do Diagrama de Entidade e Relacionamento, facilitando a visualização e abstração dos conceitos para a modelagem.
 
-<img style = "width: 300px" src="./Assets/Diagrama_EER" alt = "Diagrama de Entidade e Relacionamento">
+<img style = "width: 800px" src="./Assets/Diagrama_EER.PNG" alt = "Diagrama de Entidade e Relacionamento">
 
 
 
@@ -98,7 +98,7 @@ GROUP BY localidade;
 
 O código apresenta a soma das quantidades de produtos em estoque, sendo agrupados por região:
 
-<img style = "width: 300px" src="./Assets/Querry - Estoque" alt = "Resultado da Querry Total de Produtos em Estoque por Localidade">
+<img style = "width: 500px" src="./Assets/Querry - Estoque.PNG" alt = "Resultado da Querry Total de Produtos em Estoque por Localidade">
 
 ## Quais Produtos Apresentam Nota Maior ou Igual a 4.5?
 
@@ -110,7 +110,7 @@ SELECT nomeProduto, avaliacao FROM produtos WHERE avaliacao >= 4.5;
 
 Dentre os dados inseridos na tabela, notamos que o Smartphone possui a melhor nota, além de concluir que 2 produtos estão com nota inferior ao valor estipulado.
 
-<img style = "width: 300px" src="./Assets/Querry - Nota Maior que 4,5" alt = "Resultado da Querry Produtos com Nota Maior ou Igual a 4.5">
+<img style = "width: 500px" src="./Assets/Querry - Nota Maior que 4,5.PNG" alt = "Resultado da Querry Produtos com Nota Maior ou Igual a 4.5">
 
 
 ## Quais Produtos Custam Mais que R$ 100,00?
@@ -124,7 +124,7 @@ WHERE valor > 100
 ORDER BY valor DESC;
 ```
 
-<img style = "width: 300px" src="./Assets/Querry - Produto Maior que 100" alt = "Resultado da Querry Produtos com Valor Maior que R$ 100m,00">
+<img style = "width: 300px" src="./Assets/Querry - Produto Maior que 100.PNG" alt = "Resultado da Querry Produtos com Valor Maior que R$ 100m,00">
 
 
 ## Quantos Clientes Estão Cadastrados no Sistema?
@@ -135,7 +135,7 @@ Esta query retorna a soma de todos os registros do banco de dados:
 SELECT COUNT(*) AS total_clientes FROM clientes;
 ```
 
-<img style = "width: 300px" src="./Assets/Querry - Total de Clientes" alt = "Total de Registros no SIstema">
+<img style = "width: 500px" src="Assets/Querry - Total de Clientes.PNG" alt = "Total de Registros no SIstema">
 
 
 É importante destacar que no início do script foi adicionada uma validação que verifica se o banco de dados 
