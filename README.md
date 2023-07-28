@@ -1,4 +1,4 @@
-# Bootcamp Potência Tech - DIO Bank
+# Bootcamp Potência Tech - Banco de Dados
 
 <img style = "width: 200px" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdjqTkPkxvNF5yqLhPRNhYXnwXuW422OWMGMyn2KkNTjRyuqZriAq26YEAK35FIOgKAwY&usqp=CAU" alt = "DIO"> <img style = "width: 200px" src = "https://hermes.dio.me/files/assets/57ee4023-b3ef-4dd5-b403-c9107fda7723.png" alt = "Potência Tech powered by iFood | Ciência de Dados com Python Bootcamp"> <img style = "width: 200px" src = "https://logospng.org/download/ifood/logo-ifood-1024.png" alt = "IFood">
 
@@ -6,8 +6,9 @@
 # Sobre o Projeto
 
 Desenolvido em Julho de 2023 durante o bootcamp **Potência Tech Powered by iFood | Ciência de Dados com Python!** oeferecido pela **Digital Innovation One (DIO)** 
-em parceria com a **IFood**, o projeto apresenta um exemplo de banco de dados de um e-commerce. Foram inseridas querries e criadas tabelas seguindo o modelo proposto 
-durante as aulas.
+em parceria com a **IFood**, o projeto apresenta a resolução de dois desafios sobre a modelagem de um banco de dados relacional em SQL. Foram inseridas querries e criadas tabelas seguindo as regras de negócio propostas durante o curso. Posteriormente, o sistema foi evoluído e refinado para aperfeiçoamento do banco de dados.
+
+**Para verificar o conteúdo dos projetos, acesse as branches no GitHub**
 
 # Tecnologias Utilizadas
 
@@ -25,7 +26,6 @@ durante as aulas.
 git clone https://github.com/PhilTisoni/ecommerce_sql.git
 ```
 O projeto deverá ser clonado para a sua pasta. Abra o arquivo .sql em seu workbench.
-
 
 # Índice
 
@@ -151,6 +151,7 @@ DROP DATABASE IF EXISTS ecommerce_refinado;
 CREATE DATABASE ecommerce_refinado;
 USE ecommerce_refinado;
 ```
+
 
 # Autor
 
