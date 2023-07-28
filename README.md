@@ -29,7 +29,7 @@ em parceria com a **IFood**, eles apresentam a resolução de dois desafios de m
 - Após abrir o terminal, copie o seguinte comando:
    
 ```bash
-git clone https://github.com/PhilTisoni/ecommerce_sql.git
+git clone https://github.com/PhilTisoni/banco_dados_sql.git
 ```
 O projeto deverá ser clonado para a sua pasta. Abra o arquivo .sql em seu workbench.
 
